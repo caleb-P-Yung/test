@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,]"
+license="MIT"
+[[mods]]
+modId="blindfilter"
+version="1.0.0"
+displayName="Blind Filter Mod"
+authors="ModPilot"
+description="Adds a visual filter overlay without the blindness effect."

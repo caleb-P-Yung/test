@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: blindfilter
+Specification-Vendor: modpilot
+Specification-Version: 1
+Implementation-Title: test
+Implementation-Version: 1.0.0
+Implementation-Vendor: modpilot
+Implementation-Date: 2026-10-12T13:02:01-0400
+
